@@ -569,7 +569,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   align-items: center;
 }
 @media (max-width:768px){
-  .new-email-bx{
+  .form-news input{
     width: 80% !important;
   }
 }
